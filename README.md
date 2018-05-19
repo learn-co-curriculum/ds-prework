@@ -20,8 +20,7 @@ The material provided is to get a head start on some of the topics you will see 
 The second module will focus on statistics and probability.  Here are some good resources to get started.
 
   * [Udacity's Course on Probability and Statistics](https://classroom.udacity.com/courses/st101), especially lessons 8 through 10 which covers probability, conditional probability, and Bayes rule.  
-* [Open Stats, Chapter 2]
-(https://www.openintro.org/download.php?file=os3_tablet&referrer=/stat/textbook.php) can provide more background on probability.
+* [OpenIntro Statistics](https://www.openintro.org/download.php?file=os3_tablet&referrer=/stat/textbook.php) chapter 2 can provide more background on probability.
 
 ### Linear Algebra
 
