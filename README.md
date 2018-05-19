@@ -27,5 +27,5 @@ The second module will focus on statistics and probability.  Here are some good 
 In the third module we will move into Machine Learning and cover linear algebra.  We will spend class time on linear algebra.  Here is a good resource to get started.
 
 * [Udacity's Linear Algebra Refresher Course](https://classroom.udacity.com/courses/ud953/) lessons labeled Introduction and Vectors.
-* [Essence of Linear Algebra Course](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) 
+* [Essence of Linear Algebra Course](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) has a collection of short videos covering essential concepts.
 
